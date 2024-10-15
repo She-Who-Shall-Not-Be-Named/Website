@@ -1,0 +1,29 @@
+.jumbotron {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .jumbotron .lead {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  section p.lead {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    background-color: #292b2c;
+  }
+  
+  footer p {
+    margin: 0;
+    color: #ccc;
+  }
+  
